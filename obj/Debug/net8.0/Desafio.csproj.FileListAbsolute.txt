@@ -1,0 +1,14 @@
+D:\Users\Rafae\Documents\CODE\.NET\Desafio\bin\Debug\net8.0\Desafio.exe
+D:\Users\Rafae\Documents\CODE\.NET\Desafio\bin\Debug\net8.0\Desafio.deps.json
+D:\Users\Rafae\Documents\CODE\.NET\Desafio\bin\Debug\net8.0\Desafio.runtimeconfig.json
+D:\Users\Rafae\Documents\CODE\.NET\Desafio\bin\Debug\net8.0\Desafio.dll
+D:\Users\Rafae\Documents\CODE\.NET\Desafio\bin\Debug\net8.0\Desafio.pdb
+D:\Users\Rafae\Documents\CODE\.NET\Desafio\obj\Debug\net8.0\Desafio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Rafae\Documents\CODE\.NET\Desafio\obj\Debug\net8.0\Desafio.AssemblyInfoInputs.cache
+D:\Users\Rafae\Documents\CODE\.NET\Desafio\obj\Debug\net8.0\Desafio.AssemblyInfo.cs
+D:\Users\Rafae\Documents\CODE\.NET\Desafio\obj\Debug\net8.0\Desafio.csproj.CoreCompileInputs.cache
+D:\Users\Rafae\Documents\CODE\.NET\Desafio\obj\Debug\net8.0\Desafio.dll
+D:\Users\Rafae\Documents\CODE\.NET\Desafio\obj\Debug\net8.0\refint\Desafio.dll
+D:\Users\Rafae\Documents\CODE\.NET\Desafio\obj\Debug\net8.0\Desafio.pdb
+D:\Users\Rafae\Documents\CODE\.NET\Desafio\obj\Debug\net8.0\Desafio.genruntimeconfig.cache
+D:\Users\Rafae\Documents\CODE\.NET\Desafio\obj\Debug\net8.0\ref\Desafio.dll
